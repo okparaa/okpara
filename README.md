@@ -1,2 +1,2 @@
 # okpara
-a repo for portfolios
+a repo for my portfolios
